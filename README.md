@@ -8,11 +8,11 @@ Trained with DAS paired data from scratch.
 
 ## Denoiseing Results
 Use a very small DnCNN model to perform the denoising operation. And the results are not bad as follow.
-[Denoised DAS Data](my_results/plots/test_denoised.png)
+![image](my_results/plots/test_denoised.png)
 
 ## Problem
 The sample function call of the NoiseFlow **NOT** work correctly, that generated noises are not correct.
 
 However, the prediction of NoiseFlow does seems to generate DAS noises.
 
-[NoiseFlow Generated Noise](my_results\plots\test_noiseflow.png)
+![image](my_results\plots\test_noiseflow.png)
