@@ -15,4 +15,4 @@ The sample function call of the NoiseFlow **NOT** work correctly, that generated
 
 However, the prediction of NoiseFlow does seems to generate DAS noises.
 
-![image](my_results\plots\test_noiseflow.png)
+![image](my_results/plots/test_noiseflow.png)
