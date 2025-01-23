@@ -13,6 +13,6 @@ Use a very small DnCNN model to perform the denoising operation. And the results
 ## Problem
 The sample function call of the NoiseFlow **NOT** work correctly, that generated noises are not correct.
 
-However, the prediction of NoiseFlow does seems to generate DAS noises.
+However, the prediction of NoiseFlow does seem to generate DAS noises.
 
 ![image](my_results/plots/test_noiseflow.png)
